@@ -2,7 +2,7 @@
 
 ## Interveiw Questions for Requirments
 ---
-## Chili & Rice
+## Chili & Rice 🍚 
 1. What kind of beans would you like
 2. What kind of base would you like for you chili
 3. Do you want this dish vegetartian or not
@@ -14,7 +14,7 @@
 9. How would you like your rice cooked
 10. What toppings would you like ?
 
-## Chef Salads
+## Chef Salads 🥗
 1. what kind of lettuce would you like
 2. What kind of dressing would you like
 3. Crutons or no crutons?
@@ -26,7 +26,7 @@
 9. Would you like a bacon subsittute
 10. How much dressing would you like.
 
-## Tuna fish sandwich:
+## Tuna fish sandwich 🐟
 1.  Do you want a plain tuna fish sandwich or a heartier tuna fish sandwich?
 2.  Do you want extra ingredient like onion, celery, or eggs?
 3.  Do you want spicy or original tuna?
@@ -39,7 +39,7 @@
 10. How much of each condiment would you like?
 11. Do you want fresh or canned tuna fish? 
 
-## Chicken Soup 
+## Chicken Soup 🐥
 1.  Do you want homemade or canned chicken soup?
 2.  How many servings do you want me to make?
 3.  Do you want carrots in your chicken soup?
@@ -65,5 +65,5 @@
 6. Alloy parts- for durability reasons, especially for the wheels and joints-
 7. Health mode- so the robot would make any recipe the healthiest way possible and potrion you correctly when cooking 
 8. Self charging battery- green features always sell well and everyone wants to save on power
-9. wifi feature- to download things like recipies playlists and books striaght to the robot 
+9. Wifi feature- to download things like recipies playlists and books striaght to the robot 
 10. Charging ports- to charge your electronics on, emergency changing capabilities in a power outage
