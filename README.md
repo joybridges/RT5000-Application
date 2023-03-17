@@ -39,7 +39,7 @@
 10. How much of each condiment would you like?
 11. Do you want fresh or canned tuna fish? 
 
-## Cicken soup 
+## Chicken Soup 
 1.  Do you want homemade or canned chicken soup?
 2.  How many servings do you want me to make?
 3.  Do you want carrots in your chicken soup?
