@@ -57,13 +57,13 @@
 ---
 ---
 ## Top 10 List of Requirments
-1. Bilingual options on the robot- to expand the market gloabally so more people can access it
-2. Bluetooth options - to play your spotify or your audiobooks, could theoritically read your kids bedtime stories
-3. SD card- so you could upload music and recipes without the wifi feature
-4. Detachable and washable parts- to make cleaning the robot easy
-5. Timer and alarm- since its cooking for you a timer feature should be a key piece and an alarm feature should also be added 
-6. Alloy parts- for durability reasons, especially for the wheels and joints-
-7. Health mode- so the robot would make any recipe the healthiest way possible and potrion you correctly when cooking 
-8. Self charging battery- green features always sell well and everyone wants to save on power
-9. Wifi feature- to download things like recipies playlists and books striaght to the robot 
-10. Charging ports- to charge your electronics on, emergency changing capabilities in a power outage
+1. **Bilingual options on the robot**- to expand the market gloabally so more people can access it
+2. **Bluetooth options** - to play your spotify or your audiobooks, could theoritically read your kids bedtime stories
+3. **SD card**- so you could upload music and recipes without the wifi feature
+4. **Detachable and washable parts**- to make cleaning the robot easy
+5. **Timer and alarm**- since its cooking for you a timer feature should be a key piece and an alarm feature should also be added 
+6. **Alloy parts**- for durability reasons, especially for the wheels and joints-
+7. **Health mode**- so the robot would make any recipe the healthiest way possible and potrion you correctly when cooking 
+8. **Self charging battery**- green features always sell well and everyone wants to save on power
+9. **Wifi feature**- to download things like recipies playlists and books striaght to the robot 
+10. **Charging ports**- to charge your electronics on, emergency changing capabilities in a power outage
