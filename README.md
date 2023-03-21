@@ -1,5 +1,4 @@
-# RT5000-Application
-### By Stephan & Joy 🧑‍🤝‍🧑
+ 🧑‍🤝‍🧑
 
 ## Interveiw Questions for Requirments
 ---
